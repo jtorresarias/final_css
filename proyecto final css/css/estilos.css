@@ -25,10 +25,13 @@ body{
     background-size: cover;
     width: 100%;
     height: 70vh;
+    
 }
 .caja_2{
     width: 70%;
     height: 100%;
+    margin-left: 5%;
+    padding-top: 5%;
 }
 .grande{
     color: #fff;
@@ -47,6 +50,7 @@ body{
 h2{
     text-align: center;
     font-weight: lighter;
+    color: rgb(223, 30, 30) ;
 }
 p{
     text-align: center;
