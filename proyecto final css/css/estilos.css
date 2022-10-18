@@ -16,7 +16,9 @@ li:hover{
     text-decoration:underline;
 
 }
-
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .caja{
     background: url(../img/fondo.jpg);
     background-repeat: repeat;
@@ -26,6 +28,27 @@ li:hover{
     height: 70vh;
 }
 .caja_2{
-    width: 50%;
+    width: 60%;
     height: 100%;
+}
+.grande{
+    color: #fff;
+    font-size: 75px;
+    font-weight: 900;
+}
+.mediano{
+    color: #fff;
+    font-size: 45px;
+    font-weight: bold;
+}
+.pequeño{
+    color: #fff;
+    font-size: 35PX;
+}
+h2{
+    text-align: center;
+    font-weight: lighter;
+}
+p{
+    text-align: center;
 }
