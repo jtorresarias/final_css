@@ -10,7 +10,6 @@ li{
     list-style: none;
     margin-right: 20px;
     padding: 20px;
-    border
 }
 li:hover{
     text-decoration:underline;
@@ -28,7 +27,7 @@ body{
     height: 70vh;
 }
 .caja_2{
-    width: 60%;
+    width: 70%;
     height: 100%;
 }
 .grande{
@@ -51,4 +50,7 @@ h2{
 }
 p{
     text-align: center;
+}
+.caja2 img{
+    float: left;
 }
